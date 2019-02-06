@@ -1,6 +1,6 @@
 # Flaws-in-flows
 Eclipse plug-in for a Security Analysis of SecDFDs 
-[[Link to full paper](docs/conference_041818_fullPaper.pdf)]
+[[Link to full paper](docs/conference_041818_full.pdf)]
 
 # Description
 This code base is an Eclipse plug-in used for modeling and analyzing Security Data Flow Diagrams (SecDFDs) with the use of principles from information flow control. 
